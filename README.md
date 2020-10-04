@@ -1,2 +1,2 @@
 # Foodie
-Chat bot that can assist one find a good Restaurant 
+Chat bot that can assist one find a Restaurant of your choice! 
